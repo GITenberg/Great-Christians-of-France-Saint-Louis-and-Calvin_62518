@@ -1,0 +1,37 @@
+_repo: Great-Christians-of-France-Saint-Louis-and-Calvin_62518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    - Guizot, FranÃ§ois
+    - Guisot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+    - https://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_issued: '2020-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis IX, 1226-1270'
+- !lcsh 'Protestants -- France'
+- !lcc 'DC'
+- !lcsh 'Louis IX, King of France, 1214-1270'
+- !lcsh 'Calvin, Jean, 1509-1564'
+- GITenberg
+title: 'Great Christians of France: Saint Louis and Calvin'
+url: http://www.gutenberg.org/ebooks/62518
